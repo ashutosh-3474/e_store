@@ -1,0 +1,11 @@
+flutter_native_splash:
+  color: '#FFFFFF'
+  color_dark: '#272727'
+  image:  assets\logos\cart.png
+  # lottie: Lottie.asset("assets\logos\applogo.json")
+  android_12:
+    color: '#FFFFFF'
+    color_dark: '#272727'
+    image:  assets\logos\cart.png
+    # lottie: Lottie.asset("assets\logos\applogo.json")
+  web: false
