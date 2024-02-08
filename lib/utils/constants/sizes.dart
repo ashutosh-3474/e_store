@@ -1,4 +1,4 @@
-class TSizes {
+class ESizes {
   //padding and margin sizes
   static const double xs = 4;
   static const double sm = 8;
